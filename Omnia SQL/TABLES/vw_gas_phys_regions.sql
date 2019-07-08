@@ -1,0 +1,6 @@
+﻿CREATE TABLE [endur].[vw_gas_phys_regions]
+(
+   REGION_ID INT NULL,
+   REGION_NAME NVARCHAR(MAX) NULL,
+   REGION_LONG_NAME NVARCHAR(MAX) NULL
+)

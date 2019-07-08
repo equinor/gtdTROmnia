@@ -1,0 +1,7 @@
+﻿CREATE TABLE [endur].[vw_unit_conversion]
+(
+	SRC_UNIT_ID INT NULL,
+	DEST_UNIT_ID INT NULL,
+	FACTOR FLOAT NULL,
+	TYPE INT NULL
+)

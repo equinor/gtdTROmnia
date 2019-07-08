@@ -1,0 +1,6 @@
+﻿CREATE TABLE [endur].[vw_idx_group]
+(
+	SUBSYSTEM_ID INT NULL,
+	NAME NVARCHAR(MAX) NULL,
+	ID_NUMBER INT NULL
+)

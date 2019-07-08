@@ -1,0 +1,7 @@
+﻿CREATE TABLE [endur].[vw_ab_tran_info]
+(
+   TRAN_NUM INT NULL,
+   TYPE_ID INT NULL,
+   VALUE NVARCHAR(MAX) NULL,
+   LAST_UPDATE DATE NULL
+);

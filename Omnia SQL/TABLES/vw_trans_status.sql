@@ -1,0 +1,6 @@
+﻿CREATE TABLE [endur].[vw_trans_status]
+(
+NAME NVARCHAR(MAX) NULL,
+TRANS_STATUS_ID  INT NULL,
+NEW_FLAG INT NULL
+)

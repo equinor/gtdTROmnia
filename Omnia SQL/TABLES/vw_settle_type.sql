@@ -1,0 +1,5 @@
+﻿CREATE TABLE [endur].[vw_settle_type]
+(
+	NAME NVARCHAR(MAX) NULL,
+	ID_NUMBER INT NULL
+)

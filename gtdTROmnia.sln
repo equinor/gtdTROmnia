@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "gtdTROmnia", "gtdTROmnia\gtdTROmnia.shproj", "{471D9F27-6409-4284-83F0-51D04E8BB11E}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		gtdTROmnia\gtdTROmnia.projitems*{471d9f27-6409-4284-83f0-51d04e8bb11e}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F42C1D7-1A3B-4B64-9F20-0A9DCC330D9F}
+	EndGlobalSection
+EndGlobal
