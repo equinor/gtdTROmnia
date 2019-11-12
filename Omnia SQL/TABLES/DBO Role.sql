@@ -1,0 +1,1 @@
+GRANT EXECUTE ON SCHEMA::[DBO] TO [role_physical_writer];
